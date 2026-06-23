@@ -4,7 +4,7 @@ Support de cours progressif pour apprendre les bases de la programmation **proc�
 
 Chaque leçon contient :
 - un **cours** dans [docs/](docs/) (markdown, en français) ;
-- un **TP** correspondant dans [tp/](tp/), avec un dossier `Enonce/` (le travail à faire, avec des `// TODO`) et un dossier `Corrige/` (la solution complète et exécutable).
+- un **TP** correspondant dans [tp/](tp/), avec un dossier `Enonce/` (le travail à faire, avec des `// TODO`), un fichier `PasAPas.md` (un guide pas à pas qui t'accompagne question par question, en supposant que tu ne connais que ce qui a été vu dans les leçons précédentes) et un dossier `Corrige/` (la solution complète et exécutable).
 
 ## Prérequis
 
@@ -37,13 +37,14 @@ dotnet --version
 
 1. Lire le cours de la leçon dans `docs/`.
 2. Ouvrir `tp/0X-.../Enonce/`, compléter les `// TODO`.
-3. Exécuter avec :
+3. Bloqué·e ? Ouvrir `tp/0X-.../PasAPas.md`, qui guide la résolution question par question, en expliquant le "pourquoi" de chaque étape.
+4. Exécuter avec :
 
    ```bash
    cd tp/0X-.../Enonce
    dotnet run
    ```
-4. Comparer avec `tp/0X-.../Corrige/` si besoin (à n'ouvrir qu'après avoir essayé !).
+5. Comparer avec `tp/0X-.../Corrige/` si besoin (à n'ouvrir qu'après avoir essayé !).
 
 ## Lien avec le cours API
 
