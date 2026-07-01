@@ -3,6 +3,9 @@ bin/
 obj/
 *.user
 .vs/
+*.db
+*.db-shm
+*.db-wal
 
 ## OS
 .DS_Store
