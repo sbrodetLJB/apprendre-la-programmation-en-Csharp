@@ -35,6 +35,10 @@ dotnet --version
 | 12 | [Tests unitaires avec xUnit](docs/12-tests-unitaires-xunit.md) | [tp/12-tests-unitaires](tp/12-tests-unitaires) |
 | 13 | [Test-Driven Development (TDD)](docs/13-tdd.md) | [tp/13-tdd](tp/13-tdd) |
 | 14 | [Bonnes pratiques et SOLID](docs/14-bonnes-pratiques-solid.md) | [tp/14-bonnes-pratiques](tp/14-bonnes-pratiques) |
+| 15 | [Génériques avancés](docs/15-generiques-avances.md) | [tp/15-generiques](tp/15-generiques) |
+| 16 | [LINQ](docs/16-linq.md) | [tp/16-linq](tp/16-linq) |
+| 17 | [async/await](docs/17-async-await.md) | [tp/17-async-await](tp/17-async-await) |
+| 18 | [Entity Framework Core](docs/18-entity-framework-core.md) | [tp/18-entity-framework](tp/18-entity-framework) |
 
 ## Comment travailler
 

@@ -205,4 +205,4 @@ Quelques signaux qui invitent à refactoriser ("code smells") :
 - **`if/else` ou `switch` qui grossit** avec chaque nouvelle règle → remplacer par du polymorphisme (OCP)
 - **Duplication** (même logique copiée-collée en plusieurs endroits) → extraire une méthode ou une classe commune
 
-**Tu as terminé le cours avancé !** Les prochains sujets naturels à explorer : les génériques avancés, LINQ, `async`/`await`, l'accès aux données avec Entity Framework Core.
+**Suite : [15. Génériques avancés](15-generiques-avances.md)**
