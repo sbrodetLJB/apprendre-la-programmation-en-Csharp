@@ -148,4 +148,4 @@ Ce squelette est le point de départ du TP de cette leçon : à toi d'écrire le
 - Sauvegarder/charger le carnet dans un fichier texte ou JSON (`System.IO`, `System.Text.Json`).
 - Comparer cette version avec l'API REST du cours [apprendre_les_API](https://github.com/sbrodetLJB/apprendre_les_API) : que change le fait d'avoir un réseau et plusieurs clients potentiels ?
 
-**Tu as terminé la progression complète !** Tu peux maintenant relire les leçons, comparer tes propres TP avec les corrigés, et expérimenter librement à partir du mini-projet.
+**Suite vers les leçons avancées : [12. Tests unitaires avec xUnit](12-tests-unitaires-xunit.md)**

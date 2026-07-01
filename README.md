@@ -32,6 +32,9 @@ dotnet --version
 | 9 | [Héritage, polymorphisme et interfaces](docs/09-heritage-polymorphisme-interfaces.md) | [tp/09-heritage-polymorphisme-interfaces](tp/09-heritage-polymorphisme-interfaces) |
 | 10 | [Exceptions](docs/10-exceptions.md) | [tp/10-exceptions](tp/10-exceptions) |
 | 11 | [Mini-projet de synthèse : carnet d'adresses console](docs/11-projet-carnet-adresses.md) | [tp/11-projet-carnet-adresses](tp/11-projet-carnet-adresses) |
+| 12 | [Tests unitaires avec xUnit](docs/12-tests-unitaires-xunit.md) | [tp/12-tests-unitaires](tp/12-tests-unitaires) |
+| 13 | [Test-Driven Development (TDD)](docs/13-tdd.md) | [tp/13-tdd](tp/13-tdd) |
+| 14 | [Bonnes pratiques et SOLID](docs/14-bonnes-pratiques-solid.md) | [tp/14-bonnes-pratiques](tp/14-bonnes-pratiques) |
 
 ## Comment travailler
 
